@@ -1,6 +1,6 @@
 <div class="col-lg-10 col-lg-offset-1 text-center">
 <!--<hr class="small">-->
-<p class="text-muted">Anurag Baral &copy; 2017</p>
+<p class="text-muted">Anurag Baral &copy; 2019</p>
 </div>
 <!-- jQuery -->
 <script src="vendor/jquery/jquery.min.js"></script>

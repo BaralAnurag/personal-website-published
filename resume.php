@@ -8,7 +8,7 @@
 
 include 'includes/header.php';
 ?>
-<img src="img/anuragresume.jpg" alt="Anurag's Resume">
+<img src="img/anuragBaral.jpg" align="middle" alt="Anurag's Resume">
 <?PHP
 
 include 'includes/footer.php';

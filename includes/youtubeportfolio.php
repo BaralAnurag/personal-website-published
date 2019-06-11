@@ -21,9 +21,6 @@
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LKSOMNM_7dI"></iframe>
 </div>
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2lgY7Dox0vY"></iframe>
-</div>
-<div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LnbLXlwNjbU"></iframe>
 </div>
 <aside class="bg-dark">

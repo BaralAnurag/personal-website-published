@@ -1,4 +1,4 @@
-<section id="services">
+<section id="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -29,7 +29,7 @@
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
-                    <a href="https://soundcloud.com/anurag-baral">
+                    <a href="https://soundcloud.com/anurag-baral/tracks">
                     <i class="fa fa-4x fa-soundcloud text-primary sr-icons"></i>
                     <h3>Soundcloud</h3>
                     </a>
@@ -83,13 +83,11 @@
 </section>
 
 <aside class="bg-dark"></aside>
-
-
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
         <div class="row no-gutter popup-gallery">
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/ai.jpg" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/ai.jpg" class="img-responsive" alt="">
 
                     <div class="portfolio-box-caption">
@@ -106,10 +104,10 @@
                             </div>
                         </div>
                     </div>
-            </a>
+            </div>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/database.jpg" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/database.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -123,10 +121,10 @@
                             </div>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/flyingobject.jpg" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/flyingobject.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -141,10 +139,10 @@
                             </div>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/internetprogramming.jpg" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/internetprogramming.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -158,10 +156,11 @@
                             </div>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/soundcloud.jpg" class="portfolio-box">
+                <!-- <a href="img/portfolio/thumbnails/soundcloud.jpg" class="portfolio-box"> -->
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/soundcloud.jpg" class="img-responsive" alt="" >
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -175,10 +174,10 @@
                             </div>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="img/portfolio/thumbnails/project8771.jpg" class="portfolio-box">
+                <div class="portfolio-box">
                     <img src="img/portfolio/thumbnails/project8771.jpg" class="img-responsive" alt=""1>
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
@@ -192,7 +191,7 @@
                             </div>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
         </div>
     </div>
